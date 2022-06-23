@@ -1,5 +1,4 @@
-@Nandaaaskz
-1° EM
+@Nandaaaskz - 1° EM
 
 
 Interesse em:
