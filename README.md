@@ -4,3 +4,4 @@
 Interesse em:
 - Ciências da Computação 
 - Design de Games
+- Física
